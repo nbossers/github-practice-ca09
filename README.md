@@ -138,3 +138,4 @@
 |106|Konstantine Skandalis|24|KonstantineSK | <https://github.com/KonstantineSk/my_website> | <https://konstantine-portfolio.netlify.app/>  2020-10-14
 |107|Ilinca Ostahie|26|IlincaOstahie | <https://github.com/IlincaOstahie/my_website> | <https://ilincas-website.netlify.app> |2020-10-14
 |108|Julien Canestrier|20|JCanestrier| <https://github.com/JCanestrier/my_website> | <https://julien-canestrier.netlify.app/> |2020-10-15
+|109|Nicolas Bossers|4|nbossers| https://github.com/nbossers/my_website | https://nbossers-portfolio.netlify.app/ |2020-10-15
